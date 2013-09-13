@@ -37,6 +37,7 @@ function id_actions_load_action_includes() {
     'extra2.action.inc',
     'extraplus.action.inc',
     'extraplus1.action.inc',
+    'extraplus2.action.inc',
   );
 
   if (!$loaded) {
