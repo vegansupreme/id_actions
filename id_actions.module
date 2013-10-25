@@ -38,6 +38,9 @@ function id_actions_load_action_includes() {
     'extraplus.action.inc',
     'extraplus1.action.inc',
     'extraplus2.action.inc',
+    'extraplus3.action.inc',
+    'extraplus4.action.inc',
+    'extraplus5.action.inc',
   );
 
   if (!$loaded) {
